@@ -1,0 +1,51 @@
+* Light Blue Bean
+a4950fffc5b14b44b5121370f02d74de,12345,12345,b4:99:4c:1e:b8:e0,-59,  -68 
+
+UUID: a4 95 0f ff c5 b1 4b 44 b5 12 13 70 f0 2d 74 de None
+MAJOR: 30 39 None
+MINOR: 30 39 None
+MAC address:  b4:99:4c:1e:b8:e0
+(Unknown): -59
+RSSI: -68
+
+* Gimbal
+a4950ffec5b14b44b5121370f02d74de,12345,12344,02:f9:5e:2f:90:c2,-62,  -68
+
+UUID: a4 95 0f fe c5 b1 4b 44 b5 12 13 70 f0 2d 74 de None
+MAJOR: 30 39 None
+MINOR: 30 38 None
+MAC address:  02:f9:5e:2f:90:c2
+(Unknown): -62
+RSSI: -68
+
+modified via https://manager.gimbal.com & gimal app on iPhone6:
+a4950fffc5b14b44b5121370f02d74de,12345,12344,14:32:ba:5a:da:da,-62,  -65
+
+UUID: a4 95 0f ff c5 b1 4b 44 b5 12 13 70 f0 2d 74 de None
+MAJOR: 30 39 None
+MINOR: 30 38 None
+MAC address:  14:32:ba:5a:da:da
+(Unknown): -62
+RSSI: -65
+
+
+* GhostYu
+e2c56db5dffb48d2b060d0f5a71096e0,0,0,78:a5:04:23:43:8d,-51,  -62
+
+UUID: e2 c5 6d b5 df fb 48 d2 b0 60 d0 f5 a7 10 96 e0 None
+MAJOR: 00 00 None
+MINOR: 00 00 None
+MAC address:  78:a5:04:23:43:8d
+(Unknown): -51
+RSSI: -68
+
+modified via LightBlue on iPhone6:
+a4950fffc5b14b44b5121370f02d74de,12345,12343,78:a5:04:23:43:8d,-51,  -68
+
+UUID: a4 95 0f ff c5 b1 4b 44 b5 12 13 70 f0 2d 74 de None
+MAJOR: 30 39 None
+MINOR: 30 37 None
+MAC address:  78:a5:04:23:43:8d
+(Unknown): -51
+RSSI: -68
+
